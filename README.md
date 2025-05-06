@@ -1,1 +1,2 @@
 Fast Fashion
+Dear eng, we apologize for the delay. There are still some final adjustments being made to the project, and we will submit the updated version before the discussion. Thank you for your understanding.
