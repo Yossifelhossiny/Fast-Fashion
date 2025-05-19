@@ -1,0 +1,140 @@
+Report created: 
+	5/19/2025	7:11:39 PM
+
+Project name: final project.aep
+
+Source files collected to: 
+	D:\work\Fast Fashion\final project folder\final project folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	intro 
+	22
+	lement
+	dalia
+	4839711
+	Pre-comp 1
+	Pan Short
+	left 
+	Pan Short (2)
+	right 
+	12154
+	Pan Short (3)
+	Pan Short (4)
+	cloth
+	Pre-comp 2
+	iron
+	5
+	6 scene
+	mariam
+	patron
+	6.1
+	tablet
+	6.2
+	5-6
+	trash
+	girles
+	Pre-comp 3
+	Pre-comp 4
+	rrrrrrrrrrrrrrr
+	baag
+	SCENEEE[1]
+	socound sceane 2
+	Pan Short
+	
+Number of collected files:  38
+
+Size of collected files:  76.1 MB
+
+Collected source files: 
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\58A924E24B3CB4ABFB77F1077D07FEFD\WhatsApp Video 2025-05-05 at 22.50.25_780f2beb.mp4
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\6FC18C8766255AC88B5BD9384660311A\WhatsApp Video 2025-05-13 at 19.24.12_5d8fac14.mp4
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\96621135FC616302B710F2924D016D6B\WhatsApp Video 2025-04-30 at 01.24.28_5a105724.mp4
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\BE0A54A6BCDA62D26E1A202B4A95BDA3\WhatsApp Video 2025-04-26 at 14.43.12_fcb9ce9c.mp4
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\BF1D61CA7A550B3A6359908367BAEFFD\WhatsApp Video 2025-05-06 at 15.24.58_70d27b9a.mp4
+	C:\Users\Asus\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\F8E7058FAAF5E5D718498B5D628CE2DA\WhatsApp Video 2025-04-30 at 02.27.24_ed0ac0dc.mp4
+	C:\Users\Asus\Downloads\111111.ai
+	C:\Users\Asus\Downloads\122.png
+	C:\Users\Asus\Downloads\6d2c9bea6a7332c83eac5d004c9b30cf.webp
+	C:\Users\Asus\Downloads\baag.ai
+	C:\Users\Asus\Downloads\ElevenLabs_2025-04-22T21_32_24_Mark - Natural Conversations_pvc_sp100_s39_sb39_se0_b_m2.mp3
+	C:\Users\Asus\Downloads\girles.ai
+	C:\Users\Asus\Downloads\rrrrrrrrrrrrrrr.ai
+	C:\Users\Asus\Downloads\trashh folder\(Footage)\trash Layers\trash.ai
+	C:\Users\Asus\Downloads\voice 3333.mp3
+	C:\Users\Asus\Downloads\voiceeeeeeeeeee77.mp3
+	D:\learning\fourth semester 4\5VC019\lecture 5\bobbleHead 2.mp4
+	D:\work\yatt\12154.ai
+	D:\work\yatt\4839711.ai
+	D:\work\yatt\6 scene.ai
+	D:\work\yatt\6.2.ai
+	D:\work\yatt\AC Footage\Sounds\Starter Sounds\Swoosh\Swoosh 01 - 02.wav\Swoosh 01 - 02.wav
+	D:\work\yatt\AC Footage\Sounds\Starter Sounds\Transition\Swoosh Transition 03.wav\Swoosh Transition 03.wav
+	D:\work\yatt\AC Footage\Sounds\Transition Complex 14.wav
+	D:\work\yatt\dalia 2 folder\(Footage)\socound sceane 2 Layers\socound sceane.ai
+	D:\work\yatt\dalia. folder\(Footage)\card 2 Layers\card 0000.ai
+	D:\work\yatt\dalia. folder\(Footage)\eeeeee Layers\eeeeee.ai
+	D:\work\yatt\dalia. folder\(Footage)\ElevenLabs_2025-04-22T21_32_24_Mark - Natural Conversations_pvc_sp100_s39_sb39_se0_b_m2.mp3
+	D:\work\yatt\dalia. folder\(Footage)\first sceane 1 Layers\first sceane 1.ai
+	D:\work\yatt\dalia. folder\(Footage)\sho 2 Layers\sho 2.ai
+	D:\work\yatt\dalia. folder\(Footage)\socound sceane Layers\socound sceane.ai
+	D:\work\yatt\mariam\(Footage)\cloth Layers\cloth.ai
+	D:\work\yatt\mariam\(Footage)\ElevenLabs_2025-04-22T21_32_24_Mark - Natural Conversations_pvc_sp100_s39_sb39_se0_b_m2.mp3
+	D:\work\yatt\mariam\(Footage)\iron Layers\iron.ai
+	D:\work\yatt\mariam\(Footage)\patron Layers\patron.ai
+	D:\work\yatt\mariam\(Footage)\tablet Layers\tablet.ai
+	D:\work\yatt\SCENEEE[1].ai
+	D:\work\yatt\Through the Quiet Night (Music Video).mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  20
+
+Effect:  Angle Control
+	
+Effect:  Brightness & Contrast
+	
+Effect:  CC Composite
+	
+Effect:  CC Power Pin
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Drop Shadow
+	
+Effect:  Emboss
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Grid
+	
+Effect:  Motion Tile
+	
+Effect:  Puppet
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Stroke
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Tritone
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Arial”, Font style: “Bold”
+
